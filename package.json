@@ -22,7 +22,6 @@
   },
   "homepage": "https://github.com/ranjandsingh/sharp-mutler#readme",
   "dependencies": {
-    "fs-extra": "^10.1.0",
     "sharp": "^0.30.5"
   }
 }
